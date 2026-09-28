@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "LachtaniSMP.aternos.me",
+    "ip": "LachtaniSMP.aternos.me:63119",
     "port": 63119,
     "version": "",
     "try-creative": false
